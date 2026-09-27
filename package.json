@@ -1,0 +1,13 @@
+{
+	"name": "next-turbopack-loader-stale-source-repro",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"repro": "node repro.mjs"
+	},
+	"dependencies": {
+		"next": "16.3.6",
+		"react": "19.3.0",
+		"react-dom": "19.3.0"
+	}
+}
